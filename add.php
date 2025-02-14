@@ -14,6 +14,7 @@ if(!empty($_POST)){
     } else {
      echo "Record not added";
  }
+ //this is just a change
 }
 ?>
 
